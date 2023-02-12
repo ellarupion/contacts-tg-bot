@@ -5,9 +5,16 @@ This is a simple Telegram bot that allows you to search, add, and edit contacts 
 
 ## Requirements
 
-Python 3.6+
-python-telegram-bot library
-A Telegram bot token
+- [Python 3.6+](https://www.python.org/downloads/)
+
+You can install Python on your VPS using this command: 
+
+```sudo apt install python3```
+
+- [python-telegram-bot library](https://github.com/python-telegram-bot/python-telegram-bot)
+
+- [A Telegram bot token](https://t.me/BotFather)
+
 You can install the python-telegram-bot library using pip:
 
 ```pip install python-telegram-bot==13.7```
