@@ -29,7 +29,8 @@ You can install the python-telegram-bot library using pip:
 ```updater = Updater('YOUR_BOT_TOKEN_HERE', use_context=True)```
 
 4. Create a data.JSON file to store your contacts, and populate it with some sample data. An example file is included in the project directory.
-```[
+```
+[
   {
     "full_name": "Linus Torvalds",
     "post": "Developer",
