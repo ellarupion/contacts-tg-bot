@@ -44,7 +44,7 @@ You can install the python-telegram-bot library using pip:
 ```
 
 5. Run the bot using the following command:
-```python main.py```
+```python3 main.py```
 
 The bot should now be running and listening for incoming messages.
 
