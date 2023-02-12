@@ -1,0 +1,18 @@
+ {
+    "full_name": "Linus Torvalds",
+    "post": "Developer",
+    "phones": [
+      "123-456-7890",
+      "555-555-5555"
+    ],
+    "comment": "Likes bananas."
+  },
+  {
+    "full_name": "Jony Ive",
+    "post": "Designer",
+    "phones": [
+      "987-654-3210"
+    ],
+    "comment": "Also likes bananas."
+  }
+]
