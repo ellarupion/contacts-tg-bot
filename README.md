@@ -73,6 +73,8 @@ For example:
 
 ```/add Michelangelo di Lodovico Buonarroti Simoni;Designer;123-456-7890,555-555-5555;Allergic to bananas.```
 
+https://user-images.githubusercontent.com/106667410/218383886-2058501c-cf01-4ac8-9572-e30d937a536b.mov
+
 To edit a contact, simply reply to the search result message with the new contact information in the same format as when adding a contact.
 
 For example:
