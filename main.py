@@ -43,7 +43,7 @@ def add_contact(update, context):
 
     # Create a new contact dictionary
     new_contact = {
-        'full_name': contact_info[0],
+        'full_name': contact_info[0][5:],  # Remove the first 5 characters ("/add ")
         'post': contact_info[1],
         'phones': contact_info[2].split(','),
         'comment': contact_info[3] if len(contact_info) >= 4 else ''
