@@ -1,4 +1,8 @@
-<p align="left">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106667410/218409547-c6ffeaf4-607c-4c3e-b249-c20920199711.png" align="center" style="width: 100%" />
+</div>
+
+<p align="center">
 <a href="https://t.me/ellarupionnt" alt="TG Channel"><img src="https://img.shields.io/badge/Subscribe-Telegram%20channel-green" /></a>
 </p>
 
