@@ -28,6 +28,8 @@ You can install the python-telegram-bot library using pip:
 3. Insert your token in line 83:
 ```updater = Updater('YOUR_BOT_TOKEN_HERE', use_context=True)```
 
+https://user-images.githubusercontent.com/106667410/218382123-99512fae-e8a6-4b01-94ca-0cdcf71cd9cb.mp4
+
 4. Create a data.JSON file to store your contacts, and populate it with some sample data. An example file is included in the project directory.
 ```
 [
@@ -53,6 +55,8 @@ You can install the python-telegram-bot library using pip:
 
 5. Run the bot using the following command:
 ```python3 main.py```
+
+https://user-images.githubusercontent.com/106667410/218382710-ab5f403a-4eb1-4f52-af95-a5216148d8e7.mov
 
 The bot should now be running and listening for incoming messages.
 
