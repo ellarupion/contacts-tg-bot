@@ -1,4 +1,7 @@
-### [Subscribe to my Tg chanel](https://t.me/ellarupion)
+<p align="left">
+<a href="https://t.me/ellarupionnt" alt="TG Channel"><img src="https://img.shields.io/badge/Subscribe-Telegram%20channel-green" /></a>
+</p>
+
 # Telegram Contacts Bot 
 
 This is a simple Telegram bot that allows you to search, add, and edit contacts using a JSON file.
