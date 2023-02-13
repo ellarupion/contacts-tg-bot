@@ -1,4 +1,5 @@
-## Telegram Contacts Bot
+### [Subscribe to my Tg chanel](https://t.me/ellarupion)
+# Telegram Contacts Bot 
 
 This is a simple Telegram bot that allows you to search, add, and edit contacts using a JSON file.
 
