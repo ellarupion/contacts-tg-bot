@@ -19,6 +19,8 @@ You can install the python-telegram-bot library using pip:
 
 ```pip install python-telegram-bot==13.7```
 
+[![asciicast](https://asciinema.org/a/G5EyKX3ZFBRjXkd8Uqp6ZEr3V.svg)](https://asciinema.org/a/G5EyKX3ZFBRjXkd8Uqp6ZEr3V)
+
 
 ## Getting Started
 1.Clone this repository to your local machine or server.
